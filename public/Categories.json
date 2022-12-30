@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "https://img.freepik.com/free-photo/top-view-assortment-vegetables-paper-bag_23-2148853335.jpg?w=1060&t=st=1670184028~exp=1670184628~hmac=afd5da07c97bb6a88e57475c16a1a137078826fe3a5de1e08543674b8c7242c2",
+        "category": "kid's"
+    },
+    {
+        "id": 2,
+        "image": "https://img.freepik.com/free-photo/top-view-cucumbers-with-broccoli_23-2148853384.jpg?w=900&t=st=1670184073~exp=1670184673~hmac=ddc339f73f25719e028da207542a1db009038f7e4c27a135856c98403465b73f",
+        "category": "Home appliance"
+    },
+    {
+        "id": 3,
+        "image": "https://img.freepik.com/free-photo/front-view-vegetable_140725-103355.jpg?w=1060&t=st=1670184117~exp=1670184717~hmac=0ad753ce73face05fee0c275eb6faaef18fa9974984ebff7b037ea61dc0c9399",
+        "category": "Accessories"
+    },
+    {
+        "id": 4,
+        "image": "https://img.freepik.com/free-photo/mix-vegetable_1339-374.jpg?w=1060&t=st=1670184145~exp=1670184745~hmac=c0e8e941477008b3f3a78bf9173eac0bb21214d0e2f5eec50b6bb5620a64a6cc",
+        "category": "kid's"
+    },
+    {
+        "id": 5,
+        "image": "https://img.freepik.com/free-photo/white-vegetable-healthy-fresh-natural_1203-5946.jpg?w=1060&t=st=1670185192~exp=1670185792~hmac=af1795c7f475a3f18003a1231cbd7ee34107eff089632275fdaace3966b16e94",
+        "category": "Accessories"
+    },
+    {
+        "id": 6,
+        "image": "https://img.freepik.com/free-photo/fresh-parsley-isolated_144627-30012.jpg?w=1060&t=st=1670185209~exp=1670185809~hmac=8b40d4ccfc4f3b8d646181e32046f97ccf2f5c4ad355acda0ac618e45111d27c",
+        "category": "Accessories"
+    }
+]

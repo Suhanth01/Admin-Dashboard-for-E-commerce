@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "item": "Dabur amla hair oil",
+        "category":"Beauty",
+        "stock":"Yes",
+        "restock":"No"
+    },
+    {
+        "id":2,
+        "item": "Dettol liquid handWash",
+        "category":"Home & appliance",
+        "stock":"Yes",
+        "restock":"yes"
+    },
+    {
+        "id":3,
+        "item": "Gillette Hair Removal Razor",
+        "category":"Grooming",
+        "stock":"No",
+        "restock":"yes"
+    },
+    {
+        "id":4,
+        "item": "Dabur amla hair oil",
+        "category":"Beauty",
+        "stock":"Yes",
+        "restock":"No"
+    },
+    {
+        "id":5,
+        "item": "Gillette Hair Removal Razor",
+        "category":"Grooming",
+        "stock":"No",
+        "restock":"yes"
+    },
+    {
+        "id":6,
+        "item": "Dabur amla hair oil",
+        "category":"Beauty",
+        "stock":"Yes",
+        "restock":"No"
+    }
+  
+]
